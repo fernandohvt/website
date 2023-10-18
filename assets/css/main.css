@@ -168,12 +168,12 @@ input, select, textarea {
 
 	h2 {
 		font-size: 1.75em;
-		line-height: 1.5em;
+		
 	}
 
 	h3 {
 		font-size: 1em;
-		line-height: 1.5em;
+		
 	}
 
 	h4 {
@@ -1960,7 +1960,7 @@ input, select, textarea {
 			position: relative;
 		}
 
-			header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
+			/* header.major h1:after, header.major h2:after, header.major h3:after, header.major h4:after, header.major h5:after, header.major h6:after {
 				background: #dddddd;
 				content: '';
 				display: block;
@@ -1968,7 +1968,7 @@ input, select, textarea {
 				margin: 0.75em auto 0 auto;
 				position: relative;
 				width: 4em;
-			}
+			} */
 
 		header.major p {
 			margin-top: 0;
